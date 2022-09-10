@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Walter Thompson",
+    "title": "How to pitch me: 6 investors discuss what they’re looking for in April 2022",
+    "description": "Smaller seed rounds mean shorter runways, so partnering with an investor who actually understands your business well enough to add value is critical.",
+    "url": "https://techcrunch.com/2022/04/21/how-to-pitch-me-6-investors-discuss-what-theyre-looking-for-in-april-2022/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-164425034.jpg?w=530",
+    "publishedAt": "2022-04-21T13:15:22Z",
+    "content": "The venture capital market is slowing down, which means early-stage founders are chasing a smaller pool of money.\r\nAccording to Carta, the number of seed deals funded between Q4 2021 and Q1 2022 fell… [+4376 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Carly Page",
+    "title": "A new bug in a Bluetooth at-home COVID-19 test could produce false results",
+    "description": "The flaw could alter test results from 'positive' to 'negative' and vice-versa.",
+    "url": "https://techcrunch.com/2022/04/21/cue-health-covid-security-false-results/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/cue-health.jpg?w=582",
+    "publishedAt": "2022-04-21T13:00:52Z",
+    "content": "A security researcher has discovered a bug in Cue Healths at-home COVID-19 testing kit that could allow users to falsify results.\r\nCue Health’s COVID-19 testing kit is a Bluetooth-operated molecular … [+3015 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Ron Miller",
+    "title": "Dassana pulls in $5M seed to transform log storage and analysis",
+    "description": "Prior to launching Dassana, CEO and co-founder Gaurav Kumar was involved in a fair number of startups. His most recent one prior to Dassana was RedLock, a cloud security company he sold to Palo Alto Networks for $173 million in 2018. He said that everywhere h…",
+    "url": "https://techcrunch.com/2022/04/21/dassana-pulls-in-5m-seed-to-transform-log-storage-and-analysis/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1328434351.jpg?w=600",
+    "publishedAt": "2022-04-21T13:00:34Z",
+    "content": "Prior to launching Dassana, CEO and co-founder Gaurav Kumar was involved in a fair number of startups. His most recent one prior to Dassana was RedLock, a cloud security company he sold to Palo Alto … [+2495 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Kyle Wiggers",
+    "title": "Jarvis ML snags $16M to help companies personalize their products",
+    "description": "Jarvis ML, a platform for developing AI-powered recommendation engines, has raised $16 million in venture funding led by Dell Technologies Capital.",
+    "url": "https://techcrunch.com/2022/04/21/jarvis-ml-snags-16m-to-help-companies-personalize-their-products/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1200882088.jpg?w=600",
+    "publishedAt": "2022-04-21T13:00:34Z",
+    "content": "Jarvis ML, a platform offering an AI-powered personalization engine to brands selling products, services and experiences, today announced that it raised $16 million in a seed round led by Dell Techno… [+4912 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Rebecca Bellan",
+    "title": "May Mobility to intro wheelchair-accessible autonomous shuttles",
+    "description": "Autonomous ride-hail and shuttle startup May Mobility is partnering with wheelchair-accessible van manufacturer BraunAbility to modify its fleet of Toyota Sienna Autono-MaaS (S-AM) to include ADA-compliant vehicles. May operates low-speed AVs geared towards a…",
+    "url": "https://techcrunch.com/2022/04/21/may-mobility-to-intro-wheelchair-accessible-autonomous-shuttles/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/May-Mobility-BraunAbility-Shuttle-2022.png?w=571",
+    "publishedAt": "2022-04-21T13:00:27Z",
+    "content": "Autonomous ride-hail and shuttle startup May Mobility is partnering with wheelchair-accessible van manufacturer BraunAbility to modify its fleet of Toyota Sienna Autono-MaaS (S-AM) to include ADA-com… [+2160 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Anita Ramaswamy",
+    "title": "Liquifi is building the \"Carta of web3\" for companies issuing tokens on the blockchain",
+    "description": "Y Combinator alum LiquiFi raised a $5 million seed round led by Dragonfly to help crypto companies manage their cap tables",
+    "url": "https://techcrunch.com/2022/04/21/liquifi-is-building-carta-web3-for-crypto-companies-tokens-blockchain/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/TechCrunch-liquifi-product-photo.png?w=600",
+    "publishedAt": "2022-04-21T13:00:24Z",
+    "content": "Web3 startups’ cap tables can look quite different from traditional ones. Rather than issuing equity as a form of incentive alignment for employees, as a typical startup would, crypto companies often… [+4515 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Frederic Lardinois",
+    "title": "Canonical now hopes to IPO in 2023",
+    "description": "Canonical, the company behind the Ubuntu Linux distribution, now plans to IPO in 2023.",
+    "url": "https://techcrunch.com/2022/04/21/canonical-now-hopes-to-ipo-in-2023/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/04/gettyimages-527247616.jpg?w=600",
+    "publishedAt": "2022-04-21T13:00:21Z",
+    "content": "The saga of Ubuntu-maker Canonical‘s IPO efforts now stretches back quite a few years. I think the first time I talked to the company’s founder Mark Shuttleworth about going public was in 2018, thoug… [+2107 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Christine Hall",
+    "title": "UPSIDE Foods bites into $400M round to serve cultivated meat later this year",
+    "description": "Pending regulatory review, the company’s chicken product will be available to consumers in the U.S. later this year.",
+    "url": "https://techcrunch.com/2022/04/21/upside-foods-bites-into-400m-round-to-serve-cultivated-meat-later-this-year/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/UPSIDE-Foods-Chicken-Taco.jpg?w=709",
+    "publishedAt": "2022-04-21T12:30:39Z",
+    "content": "Weve heard a lot about foodtech companies introducing new types of food products to fill the gap in what is expected to be a global food shortage in the next 30 years.\r\nMuch of the focus over the pas… [+4669 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Kyle Wiggers",
+    "title": "Plaid cofounder's next venture is a bank to power fintech apps",
+    "description": "Plaid cofounder William Hockey has revealed his next startup: A nationally chartered bank called Column that is geared toward fintech developers.",
+    "url": "https://techcrunch.com/2022/04/21/plaid-cofounders-next-venture-is-a-bank-to-power-fintech-apps/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-160770192.jpg?w=587",
+    "publishedAt": "2022-04-21T12:00:35Z",
+    "content": "In 2019, William Hockey, the cofounder of fintech business Plaid, announced that he would step down from his position as Plaid’s chief technology officer and president. Having helped to grow Plaid in… [+5667 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Mary Ann Azevedo",
+    "title": "Opendoor alums raise $7.75M for Kindred, a home-swapping network it says makes travel 'dramatically more affordable'",
+    "description": "With more people working from home than ever, the desire to take advantage of that newfound flexibility to travel has been greater than ever. But just because you have the ability to travel and work from anywhere, doesn’t mean you can afford to. Opendoor alum…",
+    "url": "https://techcrunch.com/2022/04/21/opendoor-alums-raise-7-75m-for-kindred-a-home-swapping-network-it-says-makes-travel-dramatically-more-affordable/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/Tas-Amina-and-Justine-Palefsky-e1650506115569.jpg?w=600",
+    "publishedAt": "2022-04-21T12:00:19Z",
+    "content": "With more people working from home than ever, the desire to take advantage of that newfound flexibility to travel has been greater than ever.\r\nBut just because you have the ability to travel and work… [+7294 chars]"
+    }
+    ]
+    }
